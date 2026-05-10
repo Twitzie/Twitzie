@@ -18,4 +18,7 @@ I build what I design
 # 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI3emc5NG50NG92NjVkc2RtYXRzOGE1eWdmdjk0b2w0bW0yaWpseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99IssnppjZ5sY/giphy.gif" width="100%">
+
+#
+[![](https://komarev.com/ghpvc/?username=Twitzie&icon=0&color=11)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
